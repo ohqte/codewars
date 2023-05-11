@@ -19,7 +19,7 @@
 - [Solutions](#Solutions)
     - [5 kyu](#5kyu)
     - [4 kyu](#4kyu)
-    - [3 kyu (soon...)](#3kyu)
+    - [3 kyu](#3kyu)
 
 ## Overview
 
